@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "734530974045",
+    "project_id": "flash-chat-750d1",
+    "storage_bucket": "flash-chat-750d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734530974045:android:4a1dbe57eb4228a19f38b4",
+        "android_client_info": {
+          "package_name": "com.shahmaaz.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734530974045-5368c1t4thbqvd8lbfs39nijgv8r5c1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3x9ROaoy3U0IdXR_pUVFr3sU_3DM-81Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734530974045-5368c1t4thbqvd8lbfs39nijgv8r5c1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
